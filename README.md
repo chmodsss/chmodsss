@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Vanakkam 🙏
+
+I'm a NLP/NLU Researcher working on Conversational AI for Software developers.
+
+I ❤ to code in Python around Machine learning and Natural language processing.
+
+Better about section : chmodsss.github.io/about
 
 <!--
 **chmodsss/chmodsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
