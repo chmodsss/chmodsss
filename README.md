@@ -51,6 +51,6 @@ I'm a Machine learning engineer. I research and develop NLP applications.
     
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chmodsss.chmodsss)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chmodsss&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmodsss&layout=compact&theme=graywhite&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chmodsss&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="chmodsss's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmodsss&layout=compact&theme=graywhite&hide_border=true" /> |
 | ------------- | ------------- |
 
