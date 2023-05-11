@@ -1,6 +1,6 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> Vanakkam 
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/folded-hands_1f64f.png" alt="Folded Hands" width="25" height="25" /> Vanakkam 
 
-I'm a Machine learning engineer. I research and develop NLP applications.
+I'm an AI Consultant / Machine learning engineer. I research and develop NLP applications.
 
 
 ## Tech stack
@@ -13,10 +13,10 @@ I'm a Machine learning engineer. I research and develop NLP applications.
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="55" height="55"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="vim" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="vim" width="100" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="55" height="25"/>  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="70" height="30"/>  
   
 </p>
 
